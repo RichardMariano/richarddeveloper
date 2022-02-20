@@ -1,0 +1,145 @@
+@media screen and (max-width: 760px){
+    .cabecalho {
+        display: flex;
+        flex-direction: column;
+        margin-left: 30px;
+    }
+
+    .portifolio {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .espaco {
+       margin-left: -55px;
+    }
+
+    .conteudo-principal {
+        display: flex;
+        align-items: center;
+        
+    }
+
+    .conteudo-principal-escrito {
+        margin-top: 100px;
+        margin-left: 20px;
+    
+
+    }
+    .conteudo-principal-imagem {
+        display: none;
+    }
+
+    .revisao {
+        margin-left: -80px;
+        margin-top: -70px;
+    }
+
+    .redes {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 100px;
+        
+    }
+
+    .texto {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    .experiencias {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    footer {
+        display: flex;
+        margin-left: 25px;
+
+        
+    }
+
+
+    .final {
+        display: flex;
+
+    }
+
+
+    .html5 {
+        width: 100px;
+        height: 100px;
+        
+    }
+    
+    .css3 {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .javascript {
+        width: 100px;
+        height: 100px;
+       
+    }
+    
+    .angular {
+        width: 70px;
+        height: 70px;
+        
+    }
+    
+    .react {
+        width: 80px;
+        height: 80px;
+        
+    }
+    
+    .nodejs {
+        width: 100px;
+        height: 100px;
+       
+    }
+    
+    .redux {
+        width: 80px;
+        height: 80px;
+       
+    }
+    
+    .mongodb {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .jquery {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .bootstrap {
+        width: 100px;
+        height: 100px;
+        
+    }
+    
+    .github {
+        width: 100px;
+        height: 100px;
+    }
+    
+    
+    .photoshop {
+        width: 70px;
+        height: 70px;
+    }
+    
+    .firebase {
+        width: 70px;
+        height: 100px;
+    }
+}
+
+
